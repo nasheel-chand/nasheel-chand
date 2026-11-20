@@ -1,195 +1,91 @@
-# Nasheel Chand
+<h1 align="center">Hi, I'm Nasheel 👋</h1>
+<p align="center">
+  <b>Senior Full-Stack Developer & Development Team Lead</b><br/>
+  I build scalable web apps end to end — from the first commit to production deployment and maintenance.
+</p>
 
-**Senior Full Stack Developer | MERN Stack | Next.js | PHP | AWS | DevOps**
-
-📍 Himachal Pradesh, India
-📧 [nasheelofficial@gmail.com](mailto:nasheelofficial@gmail.com)
-📞 +91 7018353204
-🔗 [GitHub](https://github.com/nasheel-chand)
-🔗 [LinkedIn](https://www.linkedin.com/in/nasheel-chand)
-
----
-
-## 🚀 Professional Summary
-
-Full-Stack Developer with 7+ years of experience building scalable web applications using MERN Stack, Next.js, TypeScript, PHP, and cloud technologies. Experienced in API integrations, DevOps workflows, AWS deployment, AI-assisted development tools, and performance optimization. Skilled in delivering end-to-end solutions from architecture design and development to deployment and maintenance for enterprise and e-commerce platforms.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nasheel-chand"><img src="https://img.shields.io/badge/LinkedIn-nasheel--chand-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nasheelofficial@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-India-2DD4BF?style=flat" alt="Location"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About me
 
-### Frontend Technologies
+- 🧑‍💻 **7+ years** building web applications, from WordPress and PHP to modern JavaScript stacks and cloud infrastructure
+- 👥 **Development Team Lead** at Netqom Software — architecture decisions, code reviews and mentoring
+- 🛒 Deep **e-commerce** experience: Shopify apps & Liquid themes, WooCommerce, BigCommerce, Magento
+- 💳 **Payment integrations**: Stripe, Authorize.net, Wise, Vendo
+- ⚙️ **Automation**: n8n (custom connectors, MCP servers) and Airtable workflows syncing e-commerce, CRM and marketing systems
+- 🤖 AI-assisted development with Cursor, Windsurf and prompt engineering
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Next.js
-* TypeScript
-* Redux
+### 🛠️ Tech stack
 
-### Backend Technologies
+**Frontend**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-* Node.js
-* Express.js
-* PHP
-* Laravel
-* Yii2
+**Backend & APIs**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=flat&logo=yii&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
-### Databases
+**Databases**<br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-* MongoDB
-* MySQL
-* PostgreSQL
-* Redis
+**Cloud & DevOps**<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### DevOps & Cloud
+**E-commerce, CMS & Automation**<br/>
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=flat&logo=bigcommerce&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-* AWS (EC2, S3, RDS, IAM)
-* Docker
-* Kubernetes
-* Linux
-* CI/CD Pipelines
-* Jenkins
+### 📌 Key projects
 
-### Web Servers & Hosting
+**Euro Tile** — B2B/B2C e-commerce platform · *MERN, Next.js*
+- Secure authentication, access control, order management and payment workflows
+- Scalable backend APIs and optimised MongoDB architecture
 
-* Apache
-* Nginx
-* cPanel
-* Domain & DNS Management
+**ReadBuild** — Construction project bidding platform · *React, TypeScript, Yii2, MySQL*
+- Contractor bidding system and contract management workflows
+- Admin dashboard for project and contractor management
 
-### Security & API Development
+### 💼 Experience
 
-* REST API Development
-* JWT Authentication
-* RBAC
-* Secure Application Development
+| Role | Company | Period |
+|---|---|---|
+| Development Team Lead | Netqom Software Pvt. Ltd. | Jun 2026 – Present |
+| Full-Stack Developer (MERN & PHP) | Netqom Software Pvt. Ltd. | Oct 2021 – May 2026 |
+| WordPress Developer | WebHopers Infotech Pvt. Ltd. | Jan 2021 – Oct 2021 |
+| WordPress Developer | Magnifying India | Jul 2019 – Dec 2020 |
+| Computer Instructor | Mindway Computer Institute | Mar 2018 – Jun 2019 |
 
-### Payment Gateway Integrations
-
-* Stripe
-* Authorize.net
-* Wise
-* Vendo
-
-### CRM, Marketing & Analytics
-
-* HubSpot
-* Mailchimp
-* LeadTrak CRM
-* CAKE CRM
-* Google Analytics (GA4)
-* Facebook Meta Pixel
-* Conversion Tracking
-
-### AI & Modern Development Tools
-
-* Cursor AI
-* Windsurf
-* ChatGPT
-* Perplexity AI
-* Prompt Engineering
-* AI-assisted Development Workflows
-
-### Tools & Platforms
-
-* GitHub
-* GitLab
-* Bitbucket
-* Postman
-* Figma API
+🎓 **B.Tech, Computer Science Engineering** — Punjab Technical University (2021)
 
 ---
 
-## 💼 Professional Experience
-
-### Netqom Software Pvt Ltd — Mohali
-
-**MERN Stack and PHP Developer**
-*Oct 2021 – Present*
-
-* Led development of scalable web applications using MERN Stack, Next.js, and TypeScript.
-* Developed secure REST APIs using Node.js, Laravel, and Yii2.
-* Integrated payment gateways including Stripe and Authorize.net.
-* Managed AWS deployment using EC2, S3, RDS, and IAM.
-* Configured CI/CD pipelines with Jenkins and Docker.
-* Improved application performance through database and API optimization.
-* Collaborated with Agile teams and mentored junior developers.
-* Integrated third-party APIs, CRMs, analytics tools, and cloud services.
-
----
-
-### WebHopers Infotech Pvt. Ltd — Panchkula
-
-**WordPress Developer**
-*Jan 2021 – Oct 2021*
-
-* Developed custom WordPress themes and plugins for client projects.
-* Built and customized e-commerce stores using Shopify, BigCommerce, and Magento.
-* Integrated payment gateways and shipping configurations.
-* Implemented SEO strategies to improve website visibility and search rankings.
-
----
-
-### Magnifying India — Mohali
-
-**WordPress Developer**
-*Jul 2019 – Dec 2020*
-
-* Developed custom WordPress themes and plugins for business websites.
-* Implemented SEO optimization and performance improvements.
-* Collaborated directly with clients to translate business requirements into technical solutions.
-
----
-
-### Mindway Computer Institute — Himachal Pradesh
-
-**Computer Instructor**
-*Mar 2018 – Jun 2019*
-
-* Taught HTML, CSS, Microsoft Office Suite, Photoshop, and CorelDRAW.
-* Developed practical assignments and training materials.
-* Guided students in foundational web development concepts and best practices.
-
----
-
-## 📌 Key Projects
-
-### Euro Tile | MERN and Next.js Developer
-
-* Developed scalable B2B/B2C e-commerce platform using MERN Stack and Next.js.
-* Built secure authentication, order management, and payment workflows.
-* Optimized MongoDB architecture and application performance.
-* Integrated analytics and conversion tracking tools.
-
----
-
-### ReadBuild | Full Stack Developer
-
-* Developed construction project bidding platform using React, TypeScript, Yii2, and MySQL.
-* Built contractor bidding systems and contract management workflows.
-* Created admin dashboard for project and contractor management.
-
----
-
-## 🎓 Education
-
-### B.Tech in Computer Science Engineering
-
-Punjab Technical University | 2021
-
-### Diploma in Computer Applications
-
-Sarva Computer Shiksha Abhiyan | 2017
-
----
-
-## 🤝 Professional Skills
-
-* Problem Solving
-* Team Collaboration
-* Agile Development
-* Client Communication
-* Technical Mentoring
-* Project Ownership
+<p align="center"><i>Open to conversations about full-stack and technical leadership work — reach out on <a href="https://www.linkedin.com/in/nasheel-chand">LinkedIn</a>.</i></p>
